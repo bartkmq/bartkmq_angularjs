@@ -12,6 +12,7 @@
     "html5-boilerplate": "0.0.1"
   },
   "devDependencies": {
+    "angular-cli-ghpages": "^0.5.3",
     "angular-mocks": "^1.7.8",
     "cpx": "^1.5.0",
     "http-server": "^0.11.1",
