@@ -6,7 +6,7 @@ angular.module('bartkmq', [
   'bartkmq.personal',
   'bartkmq.projects',
   'bartkmq.skills',
-  'bartkmq.impressum',
+  'bartkmq.impressum'
 ]).
 config(['$locationProvider', '$routeProvider', function($locationProvider, $routeProvider) {
   $locationProvider.hashPrefix('!');

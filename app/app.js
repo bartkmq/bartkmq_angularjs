@@ -6,4 +6,5 @@ angular.module('bartkmq', [
   'bartkmq.personal',
   'bartkmq.impressum',
   'bartkmq.projects',
+  'bartkmq.skills'
 ]);

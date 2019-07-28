@@ -9,7 +9,7 @@ angular.module('bartkmq.skills', ['ngRoute'])
       function SkillsController($http) {
       var self = this;
 
-      $http.get('/assets/skills.json').then(function(response)
+      $http.get('assets/skills.json').then(function(response)
       {
         self.skills = response.data;
       })
