@@ -9,12 +9,10 @@ angular.module('bartkmq.projects', ['ngRoute'])
       function ProjectsController($http) {
       var self = this;
 
-      $http.get('assets/projects.json').then(function(response)
+      $http.get('/assets/projects.json').then(function(response)
       {
         self.projects = response.data;
       });
-
-      self.projects = [{name:'name',desc:'desc',lang:'lang'}];
     }]
   });
 }]);
