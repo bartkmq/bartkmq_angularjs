@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Haxe",
+        "link": "https://haxe.org/",
+        "img": "/assets/haxe.png"
+    },
+    {
+        "name": "Web design",
+        "img": "/assets/html5.png"
+    },
+    {
+        "name": "Javascript",
+        "img": "/assets/javascript.png"
+    },
+    {
+        "name": "GNU/Linux",
+        "link": "https://www.kernel.org/",
+        "img": "/assets/gnu_linux.png"
+    },
+    {
+        "name": "Angular.js",
+        "link": "https://angularjs.org/",
+        "img": "/assets/angularjs.png"
+    }
+]
