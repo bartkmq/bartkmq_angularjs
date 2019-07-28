@@ -1,0 +1,22 @@
+[
+    {
+        "name": "c_projects_uni",
+        "desc": "Projects related to university tasks",
+        "lang": "C/C++"
+    },
+    {
+        "name": "Komponent2D",
+        "desc": "a component based game engine",
+        "lang": "Haxe"
+    },
+    {
+        "name": "HaxePunk-nape",
+        "desc": "Haxe library that makes it easier to use Nape together with Haxepunk.",
+        "lang": "Haxe"
+    },
+    {
+        "name": "hxPong",
+        "desc": "My first programming Project. A Pong clone written in Haxe. [WIP]",
+        "lang": "Haxe"
+    }
+]

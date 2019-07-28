@@ -7,21 +7,17 @@
   padding: 0 0 0.5em;
 }
 
-.menu:before {
-  content: "[";
+/* border */
+.content {
+  max-width: 960px;
+  margin: auto;
 }
 
-.menu:after {
-  content: "]";
-}
-
-.menu > li {
-  display: inline;
-}
-
-.menu > li + li:before {
-  content: "|";
-  padding-right: 0.3em;
+.avatar {
+  vertical-align: middle;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
 }
 
 a[href^="mailto"]::before {
